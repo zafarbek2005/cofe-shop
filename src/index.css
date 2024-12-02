@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.homePage{
+    background-image: url("./assets/image 1 (1).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.welcome{
+    background-image: url("./assets/image 7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.openingHours{
+    background-image: url("./assets/image 4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ourMenu{
+    background-image: url("./assets/image 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.customers{
+    background-image: url("./assets/top-view-bowls-with-coffee-beans-powder 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.footerPage{
+    background-image: linear-gradient(#1D1714D6, #1D1714D6) ,url("./assets/image 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.forNavbar{
+    background-image: linear-gradient(#1E1511E8, #1E1511E8) ,url("./assets/image 10.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.findLocation{
+    background-image: url("./assets/image 16.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contactPage{
+    background-image: url("./assets/background_image.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.aboutPage{
+    background-image: url("./assets/image 10 (1).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.allCoffees{
+    background-image: url("./assets/Rectangle 20.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
